@@ -1,0 +1,119 @@
+.topnav{
+   background-color: gray;
+    width: 100%;
+    height: 60px;}
+.topnav a{
+    float: right;
+    display: yellow;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 17px;
+
+
+}
+.topnav a:hover{
+  background-color: yellowgreen;
+    height: 36px;
+    
+}
+body{
+    margin: 0px;
+}
+.two{
+    text-align: center;
+    padding: 10px 10px ;
+    margin-left: 200px;
+    background-color: yellowgreen;
+    height: 60px;
+}
+.sidenav{
+    background-color: lightcoral;
+    margin-right: 1150px;
+    margin-top: -80px;
+    height: 1000px;
+    padding:20px;
+}
+.sidenav a{
+    padding:6px 4px 16px 8px;
+    text-decoration: none;
+    display: block;
+}
+.card-container{
+    
+    margin-left: 200px;
+    margin-top: -960px;
+    height: 80px;
+    margin-right: 900px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+
+
+   
+
+}
+.card{
+    background-color:whitesmoke;
+ 
+  font-size: 20px;
+  width: 180px;
+  padding-left: 10px;
+  text-align: cent;
+  box-shadow: 10px 10px wheat;
+  margin: 20px;
+  margin-right: 10px;
+}
+.card a{
+    text-decoration: none;
+}
+.sidenav a:hover{
+    background-color:greenyellow;
+    width: 187px;
+    margin-left: -20px;
+   
+
+}
+.article1{
+    margin-left: 198px;
+    margin-top: -980px;
+    padding: 20px;
+  
+
+
+}
+.article2{
+    margin: 20px;
+    margin: 60px;
+}
+.card1{
+    background-color:whitesmoke;
+    border: 1px solid burlywood;
+    font: size 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+#log{
+    background-color: whitesmoke;
+    box-shadow: black;
+    border-radius: 56px;
+    margin-left: 25%;
+
+}
+.logo{
+background-color:black;
+    box-shadow: 5px 5px 10px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    height: 30%;
+    border-radius: 25px;
+    width: 30%;
+    position: fixed;
+}
+.passive{
+    background-color: tomato;
+}
